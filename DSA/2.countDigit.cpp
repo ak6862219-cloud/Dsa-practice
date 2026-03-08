@@ -1,4 +1,4 @@
-//1. Given a number the task is to return the count od digits
+//2. Given a number the task is to return the count od digits
 
 #include <iostream>
 using namespace std;

@@ -1,4 +1,4 @@
-//2. WAP check prime or not 
+//4. WAP check prime or not 
  #include <stdio.h>
 
 int main() {

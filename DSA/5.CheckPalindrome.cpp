@@ -1,4 +1,4 @@
-//2. Chech a number is palindrome or not if number is palindrome output true else false
+//5. Chech a number is palindrome or not if number is palindrome output true else false
 
 #include<iostream>
 using namespace std;

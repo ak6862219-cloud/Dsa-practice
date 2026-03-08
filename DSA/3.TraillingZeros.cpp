@@ -1,4 +1,4 @@
-//4. Trailing Zeros in factorial
+//3. Trailing Zeros in factorial
 #include<iostream>
 using namespace std;
 int CountTrailingZeros(int n){

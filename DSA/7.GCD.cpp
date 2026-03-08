@@ -1,4 +1,4 @@
-//5. Greatest common divisor(GCD)
+//7. Greatest common divisor(GCD)
 #include<iostream>
 using namespace std;
 

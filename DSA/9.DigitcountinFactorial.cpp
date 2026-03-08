@@ -1,4 +1,4 @@
-//Digits in factorial
+//9.Digits in factorial
 #include<iostream>
 #include<cmath>
 using namespace std; 

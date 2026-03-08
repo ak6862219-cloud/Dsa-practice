@@ -1,4 +1,4 @@
-//3. To calculate the factorial 
+//6. To calculate the factorial 
 
 #include<iostream>
 using namespace std;
